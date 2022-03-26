@@ -18,3 +18,11 @@
 
 const sentencify = words =>
   words.join(' ').replace(/^[a-z]/, m => m.toUpperCase()) + '.';
+
+//-----------------------------------------------------------------------------------------------------------------
+console.log(sentencify(['i', 'am', 'an', 'AI'])); //I am an AI.
+console.log(sentencify(['yes'])); //Yes
+console.log(sentencify(['FIELDS', 'of', 'CORN', 'are', 'to', 'be', 'sown'])); //FIELDS of CORN are to be sown.
+console.log(
+  sentencify(["i'm", 'afraid', 'I', "can't", 'let', 'you', 'do', 'that'])
+); //I'm afraid I can't let you do that.
