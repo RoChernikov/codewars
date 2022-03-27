@@ -14,3 +14,4 @@
 ## 6 kyu
 
 - [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/javascript)
+- [Get the square of a number without \*_ or _ or pow()](https://www.codewars.com/kata/58a8807c5336a3f613000157/train/javascript)
