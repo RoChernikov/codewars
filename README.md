@@ -3,6 +3,7 @@
 ## 8 kyu
 
 - [Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript)
+- [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript)
 
 ## 7 kyu
 
