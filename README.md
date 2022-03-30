@@ -19,3 +19,4 @@
 - [Get the square of a number without \*_ or _ or pow()](https://www.codewars.com/kata/58a8807c5336a3f613000157/train/javascript)
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/solutions/javascript)
 - [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/javascript)
+- [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript)
