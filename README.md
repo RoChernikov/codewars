@@ -20,6 +20,7 @@
 - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00/solutions/javascript)
 - [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/train/javascript)
 - [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript)
+- [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a/train/javascript)
 
 ## 5 kyu
 
