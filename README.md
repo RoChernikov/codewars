@@ -12,6 +12,7 @@
 - [Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7/train/javascript)
 - [JavaScript Array Filter](https://www.codewars.com/kata/514a6336889283a3d2000001/train/javascript)
 - [Sum of Minimums!](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699/train/javascript)
+- [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212/train/javascript)
 
 ## 6 kyu
 
