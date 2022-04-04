@@ -5,6 +5,7 @@
 - [Merge two sorted arrays into one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript)
 - [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript)
 - [Parse nice int from char problem](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/javascript)
+- [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/javascript)
 
 ## 7 kyu
 
