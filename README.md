@@ -19,6 +19,7 @@
 - [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212/train/javascript)
 - [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045/train/javascript)
 - [Sort arrays - 1](https://www.codewars.com/kata/51f41b98e8f176e70d0002a8/train/javascript)
+- [Sort the Gift Code](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3/train/javascript)
 
 ## 6 kyu
 
