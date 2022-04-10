@@ -34,3 +34,4 @@
 ## 5 kyu
 
 - [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/train/javascript)
+- [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/javascript)
