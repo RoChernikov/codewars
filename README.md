@@ -36,3 +36,4 @@
 
 - [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/train/javascript)
 - [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/train/javascript)
+- [Convert A Hex String To RGB](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7)
