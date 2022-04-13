@@ -31,6 +31,7 @@
 - [Extract last names of people named Michael](https://www.codewars.com/kata/580741302e14acaef900015a/train/javascript)
 - [Multiplication table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08/train/javascript)
 - [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/solutions/javascript)
+- [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 
 ## 5 kyu
 
