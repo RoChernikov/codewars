@@ -33,6 +33,7 @@
 - [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/solutions/javascript)
 - [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
+- [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
 ## 5 kyu
 
