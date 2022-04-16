@@ -34,6 +34,7 @@
 - [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 - [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- [[Code Golf] Get the Square of a Number without \*_ or _ or pow()](https://www.codewars.com/kata/58a8807c5336a3f613000157)
 
 ## 5 kyu
 
