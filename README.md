@@ -8,6 +8,7 @@
 - [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/javascript)
 - [USD => CNY](https://www.codewars.com/kata/5977618080ef220766000022/train/javascript)
 - [Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript)
+- [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
 
 ## 7 kyu
 
