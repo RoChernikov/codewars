@@ -9,6 +9,7 @@
 - [USD => CNY](https://www.codewars.com/kata/5977618080ef220766000022/train/javascript)
 - [Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript)
 - [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
+- [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
 
 ## 7 kyu
 
